@@ -37,7 +37,7 @@ const Navbar = () => {
             style={isOpen ? { transform: "rotate(90deg)" } : {}}
           />
 
-          <h2>Recipe Sharing App</h2>
+          <h2>Recipe Sharing App by Daniel Lorenzo Manahan</h2>
         </div>
         <div className={`nav-right ${isOpen ? "open" : ""}`}>
           <ul>
